@@ -1,0 +1,12 @@
+#credentials
+DAQA.json
+package-lock.json
+*.swp
+
+**/screenshots/
+**/videos
+**/node_modules
+
+#to avoid sending local results and reports
+**/allure-results/**
+**/allure-report/**
