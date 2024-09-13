@@ -10,3 +10,4 @@ package-lock.json
 #to avoid sending local results and reports
 **/allure-results/**
 **/allure-report/**
+**/reports/**
