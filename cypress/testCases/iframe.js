@@ -1,5 +1,5 @@
 //Parity with testrail
-/// <reference types="cypress" />
+
 import webElementPractice from '../main/webElementPractice'
 
 let webElement = new webElementPractice()
