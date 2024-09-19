@@ -5,13 +5,14 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "openCypressDashboard": "npx cypress open"
+    "openCypressDashboard": "npx cypress open",
+    "runAllTest": "npx cypress run"
   },
   "author": "",
   "license": "ISC",
   "devDependencies": {
     "@4tw/cypress-drag-drop": "^2.2.5",
-    "cypress": "^12.17.4",
+    "cypress": "^13.14.2",
     "cypress-file-upload": "^5.0.8",
     "cypress-iframe": "^1.0.1",
     "cypress-mochawesome-reporter": "^3.6.1",
